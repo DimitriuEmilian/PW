@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="laptopuri.dtd"?>
+
+<calculatoare>
+    <calculator id="1">
+        <nume>ASUS ROG</nume>
+        <model>NJ400</model>
+        <pret>2300</pret>
+        <anlansare>2019</anlansare>
+    </calculator>
+
+        <calculator id="2">
+        <nume>ASUS ROG</nume>
+        <model>NJ500</model>
+        <pret>3000</pret>
+        <anlansare>2020</anlansare>
+    </calculator>
+
+        <calculator id="3">
+        <nume>ASUS ROG</nume>
+        <model>NJ500</model>
+        <pret>3000</pret>
+        <anlansare>2020</anlansare>   
+    </calculator>
+
+    <calculator id="4">
+        <nume>ASUS TUF</nume>
+        <model>BG240</model>
+        <pret>4000</pret>
+        <anlansare>2018</anlansare>
+    </calculator>
+
+    <calculator id="5">
+        <nume>ASUS TUF</nume>
+        <model>BI 450</model>
+        <pret>3200</pret>
+        <anlansare>2020</anlansare>
+    </calculator>
+</calculatoare>

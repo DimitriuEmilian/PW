@@ -1,0 +1,7 @@
+<!ELEMENT calculatoare (calculator+)>
+<!ELEMENT calculator (nume,model,pret,anlansare)>
+<!ATTLIST calculator id NMTOKEN #REQUIRED>
+<!ELEMENT nume (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ELEMENT pret (#PCDATA)>
+<!ELEMENT anlansare (#PCDATA)>
